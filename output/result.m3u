@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-05 18:41:05" tvg-logo="https://live.fanmingming.com/tv/2025-03-05 18:41:05.png" group-title="更新时间",2025-03-05 18:41:05
+#EXTINF:-1 tvg-name="2025-03-06 06:51:43" tvg-logo="https://live.fanmingming.com/tv/2025-03-06 06:51:43.png" group-title="更新时间",2025-03-06 06:51:43
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
@@ -1230,11 +1230,11 @@ http://120.76.248.139/live/bfgd/4200000611.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="🏀体育频道",山东体育
 http://livealone302.iqilu.com/iqilu/typd.m3u8$订阅源
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🏀体育频道",风云足球
